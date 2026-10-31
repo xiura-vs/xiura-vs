@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Kulkarni 👋
 
-I'm a 4th-year Computer Engineering student at MBIT (CVM University) with a Minor Degree in the Internet of Things (IoT). I specialize in bridging the gap between hardware and the cloud, building everything from embedded sensor networks to scalable MERN-stack web applications.
+I'm a 4th-year Computer Engineering student at MBIT (CVM University) with a Minor Degree in Internet of Things (IoT). I specialize in bridging the gap between hardware and the cloud, building everything from embedded sensor networks to scalable MERN-stack web applications.
 
 ### 🚀 About Me
 * 🎓 Currently finishing my B.Tech in Computer Engineering with a focus on full-stack development and hardware-to-cloud architectures.
