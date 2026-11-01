@@ -20,6 +20,7 @@ I'm a 4th-year Computer Engineering student at MBIT (CVM University) with a Mino
 * **Accident Detection & Alerting System:** A sensor fusion hardware project designed for intelligent real-time accident reporting. 
 * **IoT Environmental Monitoring Platform:** A simulated multi-sensor network streaming data over MQTT into a Spring Boot and MongoDB backend with a live React dashboard, containerized with Docker Compose and deployed via a Jenkins CI/CD pipeline.
 ### 📫 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yash-portfolio.yashhk.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kulkarni-929983374) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashk22062005@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_grexinja_)
