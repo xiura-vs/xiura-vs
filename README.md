@@ -15,10 +15,17 @@ I'm a 4th-year Computer Engineering student at MBIT (CVM University) with a Mino
 ![](https://streak-stats.demolab.com/?user=xiura-vs&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=xiura-vs&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ### 🏆 Featured Projects
-* **Smart Energy Management System (SEMS):** An IoT dashboard integrating ESP32 and industrial gateways for real-time energy monitoring. Presented at Gyanotsav 2026.
-* **PoA Blockchain Wallet:** A custom Proof-of-Authority blockchain and wallet application built in Python with cryptographic state management.
-* **Accident Detection & Alerting System:** A sensor fusion hardware project designed for intelligent real-time accident reporting. 
+* **Smart Energy Management System (SEMS):** An industrial IoT platform integrating a Selec energy meter via Modbus RTU to monitor equipment power usage, featuring automated Twilio WhatsApp and phone alerts to warn clients of energy anomalies and prevent hardware damage.
+  `Industrial Gateways` · `Modbus RTU` · `React`
+
+* **PoA Blockchain Wallet:** A secure, end-to-end decentralized wallet powered by a custom Python-based Proof-of-Authority blockchain, featuring robust cryptographic state management and an intuitive React/TypeScript frontend.
+  `Python` · `Proof-of-Authority` · `Cryptography` · `React` · `TypeScript`
+
+* **Accident Detection & Alerting System:** An ESP8266-powered vehicle safety system utilizing sensor fusion (accelerometer, gyroscope, and gas sensors) to detect collisions and instantly dispatch location alerts to the nearest hospital for rapid emergency medical response.
+  `Sensor Fusion` · `Embedded C/C++` · `Twilio Alerts`
+
 * **IoT Environmental Monitoring Platform:** A simulated multi-sensor network streaming data over MQTT into a Spring Boot and MongoDB backend with a live React dashboard, containerized with Docker Compose and deployed via a Jenkins CI/CD pipeline.
+  `MQTT` · `Spring Boot` · `MongoDB` · `React` · `Docker Compose` · `Jenkins`
 ### 📫 Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yash-portfolio.yashhk.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kulkarni-929983374) 
